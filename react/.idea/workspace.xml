@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1e78184-c9b5-470d-9388-fe967820d20a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/favicon/android-chrome-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/favicon/android-chrome-512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/favicon/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/favicon/favicon-16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/favicon/favicon-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/favicon/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/thumbnail.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/app_store.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/coinpulse_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/crypto_news.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/google_play.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/not_found.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Error.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Footer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Loading.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Navbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/Newsletter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/RootLayout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/coin/Chart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/coin/CoinInfo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/coin/MarketStatus.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/coin/chart/LineChart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/coin/chart/SelectDay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/home/CoinsTable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/home/Market.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/home/coinsTable.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/home/coins_table/CoinsRow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/home/coins_table/Pagination.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/home/market/Exchanges.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/home/market/FollowUs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/home/market/MarketData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/navbar/CurrencySelect.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/navbar/SearchBar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/navbar/SearchResult.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/currency/AllCurrencies.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/currency/CurrencyContext.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/helpers/ColorChange.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/helpers/DisplayContent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/helpers/NumberFormatter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/routes/Coin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/routes/Home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/routes/NotFound.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2c025eBQGUogulBQcnQuA6BwjTB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1e78184-c9b5-470d-9388-fe967820d20a" name="Default Changelist" comment="" />
+      <created>1707233993537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707233993537</updated>
+      <workItem from="1707233994578" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="267" y="275" key="FileChooserDialogImpl" timestamp="1707234004154">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="267" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1707234004154" />
+  </component>
+</project>
